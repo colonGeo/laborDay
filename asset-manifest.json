@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/react-gh-pages/static/js/main.d5dbaa2b.js",
-    "static/js/787.c0841a6b.chunk.js": "/react-gh-pages/static/js/787.c0841a6b.chunk.js",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.d5dbaa2b.js.map": "/react-gh-pages/static/js/main.d5dbaa2b.js.map",
-    "787.c0841a6b.chunk.js.map": "/react-gh-pages/static/js/787.c0841a6b.chunk.js.map"
+    "main.css": "/laborDay/static/css/main.f4ae74aa.css",
+    "main.js": "/laborDay/static/js/main.5bbe8c7d.js",
+    "static/js/787.c0841a6b.chunk.js": "/laborDay/static/js/787.c0841a6b.chunk.js",
+    "static/media/logo.svg": "/laborDay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/laborDay/index.html",
+    "main.f4ae74aa.css.map": "/laborDay/static/css/main.f4ae74aa.css.map",
+    "main.5bbe8c7d.js.map": "/laborDay/static/js/main.5bbe8c7d.js.map",
+    "787.c0841a6b.chunk.js.map": "/laborDay/static/js/787.c0841a6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.d5dbaa2b.js"
+    "static/css/main.f4ae74aa.css",
+    "static/js/main.5bbe8c7d.js"
   ]
 }
